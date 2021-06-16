@@ -1,9 +1,9 @@
 import './App.css';
-import MouseContainer from './components/MouseContainer'
+import DataFetching1 from './components/DataFetching1'
 function App() {
   return (
     <div className="App">
-      <MouseContainer/>
+      <DataFetching1/>
     </div>
   );
 }
