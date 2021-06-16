@@ -1,10 +1,9 @@
 import './App.css';
-import ClickCounterHook2 from './components/ClickCounterHook2'
+import MouseContainer from './components/MouseContainer'
 function App() {
   return (
     <div className="App">
-      <ClickCounterHook2 />
-
+      <MouseContainer/>
     </div>
   );
 }
